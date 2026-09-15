@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:payment_app/presentation/screens/payment_screen.dart';
+import 'package:payment_app/presentation/screens/presentation/view/payment_screen.dart';
 
 class RouteManger {
   static const String paymentScreen = "/";
