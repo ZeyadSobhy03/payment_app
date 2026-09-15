@@ -1,17 +1,26 @@
-# payment_app
+# 💳 Flutter Paymob Payment Integration
 
-A new Flutter project.
+A Flutter Payment Integration with Paymob ( Payment Gateway )  
+The project demonstrates how to create a payment intention, generate a checkout URL, and open the Paymob hosted checkout inside a Flutter WebView.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 💳 Online Card Payment
+- 📱 Mobile Wallet integration
+- 🔐 Paymob Intention API
+- 🛒 Payment with multiple items
+- 💰 EGP currency support
+- 🌐 Paymob Unified Checkout
+- 🌍 WebView-based payment checkout
+- ⚡ Dio for API requests
+- 🧩 BLoC/Cubit for state management
+- ❌ Error handling for failed payments
+- 🔄 Payment status handling
 
-A few resources to get you started if this is your first Flutter project:
+  
+That simple Ui to learn a payment gateway (Paymob )
+<img width="416" height="873" alt="image" src="https://github.com/user-attachments/assets/df583b7e-cf5e-418a-8d49-1e52eff36a80" />
+<img width="409" height="854" alt="image" src="https://github.com/user-attachments/assets/9487eb37-7966-40f6-9ad2-2626f253237d" />
+<img width="418" height="872" alt="image" src="https://github.com/user-attachments/assets/3efbfa45-1f74-47a2-8dc5-4e62559fab1d" />
+<img width="415" height="850" alt="image" src="https://github.com/user-attachments/assets/e00e2967-af4c-458a-9cbd-e834c88346d7" />
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
